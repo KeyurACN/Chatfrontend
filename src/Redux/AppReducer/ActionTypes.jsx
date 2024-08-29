@@ -1,0 +1,5 @@
+export const GETDATAREQ     = "GETDATAREQ";
+export const GETDATASUCESS  = "GETDATASUCESS";
+export const GETDATAFAILURE = "GETDATAFAILURE";
+
+
